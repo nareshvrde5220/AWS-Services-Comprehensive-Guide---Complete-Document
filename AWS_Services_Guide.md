@@ -1,15 +1,11 @@
 # AWS Services Comprehensive Guide
 ## Essential AWS Services for Enterprise Applications
 
-**Source:** AWS Explained: The Most Important AWS Services To Know (Be A Better Dev)  
-**Duration:** 1 hour 5 minutes  
-**Updated:** November 2024 - December 2024
-
 ---
 
 ## Executive Summary
 
-With over **300 AWS services** available, most organizations only need to understand **40-50 core services** to build production-grade applications. This guide breaks down the most essential services organized by functional category, providing detailed explanations and use cases.
+With over **400 AWS services** available, most organizations only need to understand **40-50 core services** to build production-grade applications. This guide breaks down the most essential services organized by functional category, providing detailed explanations and use cases.
 
 ### Key Principles:
 - 📊 **Scale efficiently** - from startup to enterprise
